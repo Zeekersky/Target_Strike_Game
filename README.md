@@ -55,7 +55,7 @@ In *Target Strike*, both the ML agent and the human player aim to score points b
    cd Target-Strike
    ```
 2. **Copy Library Folder**:
-   - Copy `Libtay` folder from this given [link](https://drive.google.com/drive/folders/1kbSbZiRYR7hZ0JhDMHK7TYtsvLy1ongQ?usp=sharing).
+   - Copy `Library` folder from this given [link](https://drive.google.com/drive/folders/1kbSbZiRYR7hZ0JhDMHK7TYtsvLy1ongQ?usp=sharing).
      
 3. **Open in Unity**:
    - Open the project in Unity and ensure all necessary packages are imported, especially `ML-Agents`.
