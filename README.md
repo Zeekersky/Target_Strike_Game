@@ -58,8 +58,8 @@ In *Target Strike*, both the ML agent and the human player aim to score points b
 
 ### Scene Setup
 
-1. **Add `AgentTrainingGround` and `PlayerTrainingGround`** to the scene.
-2. Ensure that each environment has the appropriate components and scripts assigned in the Inspector.
+1. **Two Scenes `Menu` and `TargetStrike`** are there in the `Scene` folder.
+2. Ensure that each object has the appropriate components and scripts assigned in the Inspector.
 
 ## Gameplay Instructions
 
