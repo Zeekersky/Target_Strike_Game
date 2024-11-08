@@ -17,6 +17,8 @@ In *Target Strike*, both the ML agent and the human player aim to score points b
 - **Reinforcement Learning**: The ML agent learns effective strategies to target and shoot with minimal mistakes.
 - **Reward System**: Dynamic in-game rewards and penalties are given based on shooting accuracy, target hits, and collision events.
 - **Score Comparison**: Track total rewards for both the ML agent and the human player to evaluate the performance and efficiency of each.
+- **Menu**: Proper main menu is there. Also by pressing `Esc` button, one can pause the game.
+- **Camera Switch**: This game has 3 camera setting. One can switch either `FPP` mode by pressing `1` or `TPP` mode by pressing `2` or `Top View` mode by pressing `3` button.
 
 ## Reward Structure
 
