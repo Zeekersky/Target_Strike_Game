@@ -66,7 +66,7 @@ In *Target Strike*, both the ML agent and the human player aim to score points b
 ### ML Agent
 
 1. Run the Unity scene, and the ML agent will play autonomously, attempting to maximize its total reward.
-2. **Rewards**: The console logs the agent’s rewards per episode to show learning progression and success.
+2. **Rewards**: The top side of game screen show the agent’s rewards and player's rewards to show learning progression and success.
 
 ### Human Player
 
@@ -86,7 +86,7 @@ In *Target Strike*, both the ML agent and the human player aim to score points b
 
 ## Reward Tracking
 
-- **Score Logging**: Both players’ scores are logged in the console, showing total rewards after each episode for easy comparison.
+- **Score Logging**: Both players’ scores are logged in the console, showing total rewards after each episode for easy comparison. Also both are showing in corner of Game Screen.
 
 ## Debugging Tips
 
