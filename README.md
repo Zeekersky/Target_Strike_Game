@@ -43,10 +43,7 @@ In *Target Strike*, both the ML agent and the human player aim to score points b
 ### Prerequisites
 
 - **Unity 2020.3 or higher**
-- **ML-Agents** package for ML agent training:
-  ```bash
-  pip install mlagents
-  ```
+- **ML-Agents** Follow This [Github Repo of MLAgents](https://github.com/Unity-Technologies/ml-agents).
 
 ### Installation
 
