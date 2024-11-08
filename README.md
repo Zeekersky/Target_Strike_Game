@@ -62,7 +62,7 @@ In *Target Strike*, both the ML agent and the human player aim to score points b
 
 ### Scene Setup
 
-1. **Two Scenes `Menu` and `TargetStrike`** are there in the `Scene` folder.
+1. **Two Scenes `Menu` and `TargetStrike`** are there in the `Scene` folder. Ensure that you have selected `Menu` scene before start the game.
 2. Ensure that each object has the appropriate components and scripts assigned in the Inspector.
 
 ## Gameplay Instructions
