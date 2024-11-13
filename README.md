@@ -5,7 +5,7 @@
 
 ## Game Overview
 
-In *Target Strike*, both the ML agent and the human player aim to score points by shooting at targets and avoiding obstacles. Rewards are awarded for successful shots, while penalties are applied for missed shots and collisions.
+In *Target Strike*, both the ML agent and the human player aim to score points by shooting at targets and avoiding obstacles. Rewards are awarded for successful shots, while penalties are applied for missed shots and collisions. You can *watch demo gameplay* by *clicking the following game poster*.
 
 [![Watch the video](https://github.com/Zeekersky/Target_Strike_Game/blob/main/TargetStrikeGamePoster.jpg)](https://youtu.be/h2Xp72Lh_KU)
 
