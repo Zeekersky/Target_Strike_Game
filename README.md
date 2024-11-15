@@ -39,6 +39,7 @@ You can **watch demo gameplay** by **clicking the following game poster**.
   - **GunController.cs**: Shared shooting functionality for both players, including laser visualization and hit detection.
   - **EnvBehavior.cs**: Manages the ML agent’s training ground, handling target spawning and resetting.
   - **PlayerEnvBehavior.cs**: Manages the human player’s training ground with target spawning and resetting.
+  - Remaining scripts are for main menu, pause menu setup and scoreboard implementation.
 
 - **Training Grounds**
   - **AgentTrainingGround**: Dedicated environment where the ML agent operates.
@@ -55,9 +56,13 @@ You can **watch demo gameplay** by **clicking the following game poster**.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Target-Strike.git
+   git clone https://github.com/Zeekersky/Target-Strike.git
+   ```
+
+   ```bash
    cd Target-Strike
    ```
+
 2. **Copy Library Folder**:
    - Copy `Library` folder from this given [link](https://drive.google.com/drive/folders/1kbSbZiRYR7hZ0JhDMHK7TYtsvLy1ongQ?usp=sharing).
      
